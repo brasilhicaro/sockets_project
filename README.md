@@ -80,7 +80,3 @@ Substitua `<URL_DO_REPOSITORIO>` e `<NOME_DO_JAR>` pelos valores apropriados.
     git push origin minha-feature
     ```
 5. Abra um Pull Request.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
